@@ -1,6 +1,13 @@
 ### Scrapping Farm
 
-Projeto para automatizar uma atividade repetitiva que um amigo realiza.
+Projeto para automatizar uma atividade repetitiva que um colega realiza.
+
+### Como rodar
+
+```js
+  npm i
+  npm run dev
+```
 
 ### Tecnologias utilizadas
 
